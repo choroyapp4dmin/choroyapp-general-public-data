@@ -163,3 +163,36 @@ Designed, built, and maintained using modern software engineering best practices
 
 > _“Build clearly. Deploy safely. Version everything.”_
 
+---
+
+## 🧑‍💻 Development Team
+
+ChoroyApp is developed and maintained by a multidisciplinary team, combining product vision, engineering, and visual design.
+
+- **José Alegría** – Product Owner  
+  Responsible for product vision, requirements, and roadmap prioritization.
+
+- **Rodolfo Soto** – Full Stack Software Engineer  
+  Backend and mobile application development, system architecture, infrastructure, and CI/CD.
+
+- **Fabián Garrido** – Graphic Designer  
+  Visual identity, branding, UI assets, and graphic design.
+
+---
+
+## 🔄 Development Methodology
+
+The development and ongoing maintenance of ChoroyApp follow an **Agile methodology**, focusing on:
+
+- Iterative and incremental delivery
+- Continuous integration and deployment (CI/CD)
+- Frequent feedback and improvements
+- High code quality and system stability
+
+This approach allows ChoroyApp to evolve continuously while adapting to real user needs and technical requirements.
+
+---
+
+> _“Build clearly. Deploy safely. Version everything.”_
+
+
