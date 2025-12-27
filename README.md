@@ -420,3 +420,20 @@ Este enfoque permite que la plataforma **evolucione de forma continua**, adaptá
 Diseñada, desarrollada y mantenida utilizando buenas prácticas modernas de ingeniería de software.
 
 > _“Construir con claridad. Desplegar con seguridad. Versionar todo.”_
+> 
+
+---
+
+## 🇨🇱 Orgullo Chileno / Chilean Pride
+
+**ChoroyApp** es un producto **100% chileno**, diseñado y desarrollado en Chile con una fuerte identidad local y una visión global.
+
+Creemos en la tecnología como una herramienta para **fortalecer las comunidades**, potenciar el comercio local y crear soluciones digitales con impacto real.
+
+---
+
+**ChoroyApp** is a **100% Chilean product**, designed and developed in Chile with strong local roots and a global vision.
+
+We believe technology is a tool to **empower communities**, support local commerce, and build digital solutions with real-world impact.
+
+> 🌱 _Product made in Chile. Built with care, quality, and purpose._ 🇨🇱
